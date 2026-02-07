@@ -1,4 +1,4 @@
-# MS809 Enterprise Systems Implementation Portfolio
+# Enterprise Systems Implementation Portfolio
 
 This project is a complete enterprise-systems portfolio created for MS809 (Enterprise Systems Implementation). It combines three connected workstreams: (1) an ERP failure case study with a recovery blueprint, (2) a cloud ERP deep-dive on Oracle NetSuite with module and case analysis, and (3) an individual assessment linking operating models to enterprise IT requirements and CRM ethics. Together, these deliver a practical view of how enterprise systems are selected, implemented, governed, and improved.
 
