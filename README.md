@@ -9,7 +9,7 @@ This project is a complete enterprise-systems portfolio created for MS809 (Enter
 
 ---
 
-## Workstream 1: UK Public-Sector ERP Failure Diagnosis & Recovery Blueprint (Group)
+## Workstream 1: UK Public-Sector ERP Failure Diagnosis & Recovery Blueprint 
 This workstream analyses a failed ERP implementation in a UK public-sector organisation. It identifies critical success factors (CSFs) that were missed, categorises common ERP risks (technical, schedule, operational, business, organisational), and explains root causes such as weak process mapping, incomplete stakeholder representation, contract rigidity, late discovery of functional gaps, inadequate testing/UAT, and data migration challenges.
 
 **Recovery blueprint highlights:**
@@ -20,7 +20,7 @@ This workstream analyses a failed ERP implementation in a UK public-sector organ
 
 ---
 
-## Workstream 2: Oracle NetSuite Cloud ERP Deep-Dive (Group)
+## Workstream 2: Oracle NetSuite Cloud ERP Deep-Dive 
 This workstream explains Oracle NetSuite’s cloud-first SaaS ERP positioning and how it creates operational value, especially for order-intensive and manufacturing environments. It covers SaaS advantages (scalability, reduced IT overhead, automatic updates, remote accessibility) and compares NetSuite’s role within a competitive ERP landscape.
 
 **Module value highlights:**
@@ -31,7 +31,7 @@ A real adoption case is used to connect features to outcomes such as better visi
 
 ---
 
-## Workstream 3: Enterprise Operating Models + CRM (Individual)
+## Workstream 3: Enterprise Operating Models + CRM 
 This workstream links business structure to enterprise IT strategy by comparing operating models (diversification, coordination, replication, unification) and explaining how each influences process standardisation, integration depth, and system design needs.
 
 It also analyses CRM by:
